@@ -1,0 +1,27 @@
+[
+  {
+    "merchantCategory": "Commestibili",
+    "macroCategory": 1,
+    "microCategory": 1
+  },
+  {
+    "merchantCategory": "Gastronomia",
+    "macroCategory": 5,
+    "microCategory": 46
+  },
+  {
+    "merchantCategory": "Auto",
+    "macroCategory": 2,
+    "microCategory": ""
+  },
+  {
+    "merchantCategory": "transport",
+    "macroCategory": 2,
+    "microCategory": ""
+  },
+  {
+    "merchantCategory": "food",
+    "macroCategory": 5,
+    "microCategory": 46
+  }
+]
