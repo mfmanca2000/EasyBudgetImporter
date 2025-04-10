@@ -41,3 +41,9 @@ next-env.d.ts
 .idea/
 *.swp
 *.swo
+
+bank_parser_env
+page_*_text.txt
+202503_ZAK.pdf
+extracted_text.txt
+full_ocr_text.txt
