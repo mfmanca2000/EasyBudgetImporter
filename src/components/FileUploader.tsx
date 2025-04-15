@@ -7,7 +7,7 @@ type CSVUploaderProps = {
   isLoading: boolean;
 };
 
-const CSVUploader = ({ onFileUpload, isLoading }: CSVUploaderProps) => {
+const FileUploader = ({ onFileUpload, isLoading }: CSVUploaderProps) => {
   const [dragActive, setDragActive] = useState(false);
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
   const fileInputRef = useRef<HTMLInputElement>(null);
@@ -108,4 +108,4 @@ const CSVUploader = ({ onFileUpload, isLoading }: CSVUploaderProps) => {
   );
 };
 
-export default CSVUploader;
+export default FileUploader;
